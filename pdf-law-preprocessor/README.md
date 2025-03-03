@@ -4,6 +4,9 @@ This project is designed to preprocess law documents in PDF format. It extracts 
 
 ## Project Structure
 
+
+
+
 ```
 pdf-law-preprocessor
 ├── src
