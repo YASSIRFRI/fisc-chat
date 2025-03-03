@@ -1,0 +1,7 @@
+pip
+PyPDF2
+pdfplumber
+pandas
+regex
+nltk
+beautifulsoup4

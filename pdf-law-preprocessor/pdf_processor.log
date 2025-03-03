@@ -1,0 +1,28 @@
+2025-02-28 00:50:05,478 - PDFProcessor - INFO - Starting preprocessing of data/input.txt
+2025-02-28 00:50:05,478 - PDFProcessor - INFO - Extracting text from data/input.txt
+2025-02-28 00:50:05,604 - PDFProcessor - INFO - Extracted 1437018 characters from file
+2025-02-28 00:50:05,611 - PDFProcessor - INFO - Raw text saved to data\output/raw_text.txt
+2025-02-28 00:50:05,611 - PDFProcessor - INFO - Cleaning extracted text
+2025-02-28 00:50:05,761 - PDFProcessor - INFO - Clean text saved to data\output/clean_text.txt
+2025-02-28 00:50:05,761 - PDFProcessor - INFO - Mapping articles to their content
+2025-02-28 00:50:05,813 - PDFProcessor - INFO - Article mapping saved to data\output/article_map.json
+2025-02-28 00:52:28,431 - PDFProcessor - INFO - Starting preprocessing of data/input.txt
+2025-02-28 00:52:28,431 - PDFProcessor - INFO - Extracting text from data/input.txt
+2025-02-28 00:52:28,531 - PDFProcessor - INFO - Extracted 1437018 characters from file
+2025-02-28 00:52:28,550 - PDFProcessor - INFO - Raw text saved to data\output/raw_text.txt
+2025-02-28 00:52:28,551 - PDFProcessor - INFO - Cleaning extracted text
+2025-02-28 00:52:28,700 - PDFProcessor - INFO - Clean text saved to data\output/clean_text.txt
+2025-02-28 00:52:28,701 - PDFProcessor - INFO - Mapping articles to their content
+2025-02-28 00:52:28,735 - PDFProcessor - INFO - Article mapping saved to data\output/article_map.json
+2025-02-28 00:52:29,244 - PDFProcessor - INFO - Individual articles saved to data\output\articles
+2025-02-28 00:52:29,244 - PDFProcessor - INFO - Preprocessing completed successfully
+2025-02-28 00:57:43,045 - PDFProcessor - INFO - Starting preprocessing of data/input.txt
+2025-02-28 00:57:43,045 - PDFProcessor - INFO - Extracting text from data/input.txt
+2025-02-28 00:57:43,195 - PDFProcessor - INFO - Extracted 1440328 characters from file
+2025-02-28 00:57:43,195 - PDFProcessor - INFO - Raw text saved to data\output/raw_text.txt
+2025-02-28 00:57:43,207 - PDFProcessor - INFO - Cleaning extracted text
+2025-02-28 00:57:43,378 - PDFProcessor - INFO - Clean text saved to data\output/clean_text.txt
+2025-02-28 00:57:43,378 - PDFProcessor - INFO - Mapping articles to their content
+2025-02-28 00:57:43,415 - PDFProcessor - INFO - Article mapping saved to data\output/article_map.json
+2025-02-28 00:57:43,609 - PDFProcessor - INFO - Individual articles saved to data\output\articles
+2025-02-28 00:57:43,610 - PDFProcessor - INFO - Preprocessing completed successfully
